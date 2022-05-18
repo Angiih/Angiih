@@ -2,7 +2,7 @@
 
 - 🔭 Estudando  Sistema da Informação/programação...
 - 🌱 Cursando TQI Fullstack Developer ...
-- 😄 Pronouns:ela/dela
+
 <div align="center">
   <a href="https://github.com/angi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angi&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
