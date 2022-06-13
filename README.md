@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Angi👋
 
-- 🔭 Estudando  Sistema da Informação...
+- 🔭 Estudando  Sistemas de Informação...
 
 <div align="center">
   <a href="https://github.com/angi">
